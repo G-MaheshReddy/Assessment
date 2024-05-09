@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import "../pages/SuccessPage.css";
+import "../pages/SuccessPage.css"
 import Brunel from "../assets/Vector.png";
 import { MdCheck } from "react-icons/md";
 import { useNavigate } from "react-router-dom";
