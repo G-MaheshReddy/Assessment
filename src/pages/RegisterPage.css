@@ -1,0 +1,126 @@
+.register-form {
+  width: 1440px;
+  height: 800px;
+  color: #ffffff;
+}
+
+.register-page {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cancel-button {
+  width: 64px;
+  height: 64px;
+  padding: 16px;
+  border-radius: 40px;
+  border: 1px #cacaca;
+  margin-right: 30px;
+}
+.layout {
+  width: 588px;
+  height: 538.22px;
+  margin-left: 30%;
+}
+.inner-layout {
+  width: 588px;
+  height: 178px;
+
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.text-layout {
+  width: 231px;
+  height: 28px;
+}
+.text {
+  font-family: "Covered By Your Grace", cursive;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 39.6px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: #2da950;
+}
+.success-text {
+  font-family: "Manrope", sans-serif;
+  font-size: 56px;
+  font-weight: 600;
+  line-height: 67.2px;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #1c1c1c;
+  width: 588px;
+  height: 134px;
+}
+.form-layout {
+  width: 417px;
+  height: 298.22px;
+  margin-left: 81px;
+  margin-top: 120px;
+}
+.inner-form-layout {
+  width: 417px;
+  height: 174px;
+  display: flex;
+  flex-direction: column;
+}
+
+form {
+  margin-bottom: 10px;
+  margin-left: -32px;
+}
+
+form input {
+  width: 417px;
+  padding: 24px 36px 24px 36px;
+  border-radius: 64px;
+  border: 1px #000000;
+  background: #efefef;
+  font-family: "Manrope", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 27.32px;
+  text-align: start;
+  color: #827a7a;
+  margin-bottom: 20px;
+}
+
+form .login {
+  width: 490px;
+  padding: 26.11px 49.61px 26.11px 41.78px;
+  border-radius: 64px;
+  font-family: "Manrope", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24.59px;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 36px;
+}
+.valid-email {
+  width: 225px;
+  height: 22px;
+  margin-top: 7px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.badge {
+  width: 20px;
+  height: 20px;
+  padding: 2px;
+  color: #ff0808;
+  background: #ffffff;
+}
+.invalid-text {
+  width: 198px;
+  height: 22px;
+  font-family: "Manrope", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 18.86px;
+  text-align: center;
+  color: #ff0808;
+}

@@ -1,0 +1,314 @@
+.content-layout {
+  width: 1440px;
+  height: 1044px;
+}
+.content-group {
+  width: 1233px;
+  height: 886px;
+  margin-top: -40%;
+  margin-left: 62px;
+  border-image-source: linear-gradient(
+    159.14deg,
+    #3d3d3d 6.08%,
+    rgba(61, 61, 61, 0) 85.58%
+  );
+}
+.explore-more-btn {
+  width: 245px;
+  height: 88px;
+  margin-top: 828px;
+  margin-left: 897px;
+  padding: 31px 40px 31px 40px;
+  border-radius: 100px;
+  background: linear-gradient(97.55deg, #1c1c1c 2.63%, #454444 105.2%),
+    linear-gradient(0deg, #1c1c1c, #1c1c1c);
+  font-family: "Manrope", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 27.32px;
+  text-align: center;
+  color: #ffffff;
+}
+.arrow {
+  width: 24px;
+  height: 24px;
+  padding: 4.22px 4px 4.22px 4px;
+}
+.right-arrow {
+  width: 18.56px;
+  height: 15.78px;
+  padding-top: 4.22px;
+  padding-left: 3px;
+  color: #ffffff;
+}
+
+.closure-layout {
+  width: 56.25px;
+  height: 10.75px;
+  margin-top: -20%;
+  padding-left: 897px;
+}
+.closure-dots {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.green-dot {
+  width: 40px;
+  height: 40px;
+  color: #2da950;
+}
+.normal-dot {
+  width: 40px;
+  height: 40px;
+  color: #e4e3e3;
+}
+.enhance-text {
+  width: 398px;
+  height: 192px;
+  margin-top: -300px;
+  padding-left: 897px;
+}
+.enhance {
+  font-size: 40px;
+  font-family: "Manrope", sans-serif;
+  font-weight: 600;
+  line-height: 48px;
+  letter-spacing: -0.02em;
+  text-align: left;
+}
+.top-layout {
+  width: 588px;
+  height: 178px;
+  margin-top: -50%;
+  margin-left: 550px;
+}
+.success-stories-text {
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 39.6px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  font-family: "Covered By Your Grace", cursive;
+  color: #2da950;
+}
+.journey-text {
+  height: 134px;
+  font-family: "Manrope", sans-serif;
+  font-size: 56px;
+  font-weight: 600;
+  line-height: 67.2px;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #1c1c1c;
+  margin-left: -380px;
+  margin-top: 20px;
+}
+.image-group-layout {
+  width: 727.49px;
+  height: 596px;
+  border: Mixed solid;
+  border-image-source: linear-gradient(
+    159.14deg,
+    #3d3d3d 6.08%,
+    rgba(61, 61, 61, 0) 85.58%
+  );
+}
+.frameOne {
+  width: 267.82px;
+  height: 250px;
+  margin-top: -483px;
+  margin-left: 62px;
+  border-radius: 27.11px;
+  position: relative;
+  z-index: 999;
+  background: #ffffff;
+  box-shadow: 0px 22.59px 36.14px 0px #1e1e1e17;
+}
+.fourty-text {
+  width: 121px;
+  height: 77px;
+  font-family: "Switzer", sans-serif;
+  font-size: 64px;
+  font-weight: 500;
+  line-height: 76.8px;
+  letter-spacing: -0.03em;
+  text-align: left;
+  color: #1c1c1c;
+  padding-left: 35px;
+  margin-top: -40px;
+}
+.achieved-text {
+  width: 207.82px;
+  height: 92px;
+  font-family: "Manrope", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 23.4px;
+  text-align: left;
+  color: #828282;
+  padding-left: 35px;
+}
+.sparkle {
+  width: 79.17px;
+  height: 78.48px;
+  padding-left: 10px;
+}
+.frameTwo {
+  width: 235.49px;
+  height: 180px;
+  margin-top: -20%;
+  margin-left: 510px;
+  padding: 34px 30px 40px 36px;
+  border-radius: 28.36px;
+  background: #002e18;
+  border: 1.18px solid;
+  position: relative;
+  z-index: 999;
+  border-image-source: linear-gradient(
+    159.14deg,
+    #3d3d3d 6.08%,
+    rgba(61, 61, 61, 0) 85.58%
+  );
+}
+.frameTwo-inner {
+  width: 221px;
+  height: 76px;
+  gap: 11px;
+  opacity: 0px;
+}
+.million-text {
+  width: 119px;
+  height: 76px;
+  font-family: "Switzer", sans-serif;
+  font-size: 63.37px;
+  font-weight: 500;
+  line-height: 76.05px;
+  letter-spacing: -0.03em;
+  text-align: left;
+  color: #ffffff;
+}
+.dollar-text {
+  width: 91px;
+  height: 32px;
+  font-family: "Switzer", sans-serif;
+  font-size: 22.81px;
+  font-weight: 500;
+  line-height: 31.94px;
+  letter-spacing: 0.01em;
+  text-align: left;
+  color: #a6a3a0;
+  padding-left: 16px;
+}
+.reduced-text {
+  width: 224.49px;
+  height: 69px;
+  font-family: "Manrope", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 23.4px;
+  text-align: left;
+  color: #cccccc;
+}
+.frameThree{
+width:245px;
+height: 88px;
+margin-top: -15%;
+margin-left: 153.19px;
+padding: 16px 32px 16px 16px;
+gap: 14px;
+border-radius: 111.54px;
+background: #FFFFFF;
+position: relative;
+z-index: 999;
+box-shadow: 0px 15.21px 35.49px 0px #00000017;
+
+}
+.group-one{
+width: 52px;
+height: 52px;
+}
+.group-one-frame-one{
+    width: 32px;
+height: 32px;
+margin-top: 28px;
+margin-left: 26px;
+padding: 4px 4px 3px 3px;
+}
+.boost-image{
+width: 25px;
+height: 25px;
+padding-top: 4px;
+padding-left: 3px;
+color: #2DA950;
+
+
+
+}
+.boost-image-layout{
+width: 52px;
+height: 52px;
+padding-top: 18px;
+padding-left: 16px;
+margin-top: -22px;
+opacity: 0.39px;
+background: #DDEFE0;
+border-radius: 50px;
+
+}
+.group-2{
+width:131px;
+height:56px;
+}
+.days-text{
+    width: 92px;
+height: 33px;
+font-family: "Manrope",sans-serif;
+font-size: 24px;
+font-weight: 700;
+line-height: 32.78px;
+text-align: left;
+color: #1C1C1C;
+padding-left: 115px;
+margin-top: -57px;
+
+
+}
+.emp-text{
+width: 131px;
+height: 21px;
+font-family: "Manrope",sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 20.8px;
+text-align: left;
+color: #828282;
+padding-left: 115px;
+
+}
+.mask-image-group{
+    width: 506.98px;
+height: 546.27px;
+margin-top: -40%;
+margin-left: 206.69px;
+
+}
+.mask-image-layout{
+    width: 519.65px;
+height: 693.29px;
+top: 369px;
+left: 197.81px;
+
+
+}
+.mask-img{
+    width: 506.98px;
+height: 546.27px;
+top: 369px;
+left: 206.69px;
+
+
+border-radius: 50.7px;
+
+}
+

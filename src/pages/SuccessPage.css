@@ -1,0 +1,100 @@
+.success-page {
+  width: 1440px;
+  height: 800px;
+  top: -2195px;
+  left: -172px;
+  background: #ffffff;
+}
+
+.success-page-layout {
+  width: 718px;
+  height: 357px;
+  top: 221px;
+  left: 361px;
+  margin-left: 42%;
+  margin-top: 150px;
+}
+.icon-layout {
+  width: 80px;
+  height: 80px;
+  margin-left: 90px;
+}
+.checkmark-icon {
+  width: 66.67px;
+  height: 66.67px;
+  top: 6.66px;
+  left: 6.67px;
+  border-radius: 80px;
+  background: var(--Semantics-Green-400, #28b246);
+  color: var(--BW-Black, #ffffff);
+}
+.success-text-submit {
+  width: 237px;
+  height: 28px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: "Covered By Your Grace", cursive;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 39.6px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: #2da950;
+}
+.succes {
+  width: 718px;
+  height: 192px;
+  margin-left: -90px;
+}
+.congts-text {
+  width: 423px;
+  height: 67px;
+  font-family: "Manrope", sans-serif;
+  font-size: 56px;
+  font-weight: 600;
+  line-height: 67.2px;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #1c1c1c;
+  margin-top: -10px;
+}
+.long-text {
+  font-family: "Manrope", sans-serif;
+  font-size: 27px;
+  font-weight: 500;
+  line-height: 35.1px;
+  text-align: center;
+  width: 718px;
+  height: 105px;
+  gap: 0px;
+  opacity: 0px;
+  color: #727272;
+  margin-left: -145px;
+  margin-top: -30px;
+}
+.redirect-page {
+  width: 718px;
+  height: 26px;
+  top: 732px;
+  left: 361px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: 100px;
+  margin-left: -85px;
+}
+.whitespace {
+  font-family: "Manrope", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: center;
+  color: #727272;
+}
+span > .seconds {
+  font-family: "Manrope", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 26px;
+  text-align: center;
+  color: #1c1c1c;
+}
